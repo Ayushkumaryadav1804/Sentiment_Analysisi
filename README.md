@@ -16,7 +16,7 @@ This project performs sentiment analysis on a given text dataset using machine l
 
 ## Dataset
 
-The IMDB Movie Review Dataset can be downloaded from [https://ai.stanford.edu/~amaas/data/sentiment/](https://ai.stanford.edu/~amaas/data/sentiment/). This dataset contains 50,000 movie reviews from IMDB, with an equal number of positive and negative reviews.
+The IMDB Movie Review Dataset can be downloaded from [https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/datasets/domnicalarrea/trabajo-corona). This dataset contains 50,000 movie reviews from IMDB, with an equal number of positive and negative reviews.
 
 ## Requirements
 
