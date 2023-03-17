@@ -13,10 +13,11 @@
 ## Description
 
 This project performs sentiment analysis on a given text dataset using machine learning. The goal of the project is to build a model that can accurately classify the sentiment of a given text as positive or negative.
+The project includes a Jupyter notebook that walks through the entire process of building and training the sentiment analysis model, as well as testing its accuracy. Additionally, a script is provided for loading and predicting sentiment on new text data.
 
 ## Dataset
 
-The IMDB Movie Review Dataset can be downloaded from [https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/datasets/domnicalarrea/trabajo-corona). This dataset contains 50,000 movie reviews from IMDB, with an equal number of positive and negative reviews.
+The IMDB Movie Review Dataset can be downloaded from [https://www.kaggle.com/datasets/domnicalarrea/trabajo-corona/](https://www.kaggle.com/datasets/domnicalarrea/trabajo-corona). This dataset contains 41,157 tweets reviews from Twitter.
 
 ## Requirements
 
@@ -26,22 +27,16 @@ The IMDB Movie Review Dataset can be downloaded from [https://ai.stanford.edu/~a
 - Scikit-learn
 - NLTK
 
-## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Navigate to the project directory: `cd repo`
-3. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
 
-1. Open the `SentimentAnalysis.ipynb` notebook in Jupyter Notebook.
+1. Open the `SA.ipynb` notebook in Jupyter Notebook.
 2. Follow the steps outlined in the notebook to train and test the sentiment analysis model.
-3. To use the trained model to predict sentiment on new text data, run the `predict_sentiment.py` script with the desired text data file as an argument. For example, `python predict_sentiment.py data/new_reviews.txt`.
+
 
 ## Credits
 
-This project was created by Jane Doe as part of the Machine Learning course at XYZ University. The sentiment analysis model was built using the Scikit-learn and NLTK libraries.
+This project was created by Ayushkumar Yadav as part of the Internship Project  at Immensphere University. The sentiment analysis model was built using the Scikit-learn and NLTK libraries.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
