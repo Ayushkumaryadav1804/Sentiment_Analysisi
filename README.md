@@ -37,6 +37,6 @@ The IMDB Movie Review Dataset can be downloaded from [https://www.kaggle.com/dat
 
 ## Credits
 
-This project was created by Ayushkumar Yadav as part of the Internship Project  at Immensphere University. The sentiment analysis model was built using the Scikit-learn and NLTK libraries.
+This project was created by Ayushkumar Yadav as part of the Internship Project  at Immensphere. The sentiment analysis model was built using the Scikit-learn and NLTK libraries.
 
 
